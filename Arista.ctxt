@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Arista
+comment1.params=destino\ peso
+comment1.target=Arista(java.lang.Object,\ float)
+comment2.params=destino
+comment2.target=Arista(java.lang.Object)
+comment3.params=
+comment3.target=java.lang.Object\ getDestino()
+comment4.params=
+comment4.target=Arista\ getSiguiente()
+comment5.params=siguiente
+comment5.target=void\ setSiguiente(Arista)
+comment6.params=
+comment6.target=float\ getPeso()
+comment7.params=peso
+comment7.target=void\ setPeso(float)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9

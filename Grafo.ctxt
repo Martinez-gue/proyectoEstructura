@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Grafo
+comment1.params=
+comment1.target=Grafo()
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment2.params=
+comment2.target=boolean\ estaVacio()
+comment3.params=dato
+comment3.target=boolean\ existeVertice(java.lang.Object)
+comment4.params=dato
+comment4.target=boolean\ agregarNodo(java.lang.Object)
+comment5.params=origen\ destino
+comment5.target=boolean\ agregarArista(java.lang.Object,\ Cliente)
+comment6.params=cliente
+comment6.target=boolean\ registrarCliente(Cliente)
+comment7.params=nombreCliente
+comment7.target=NodoGrafo\ buscarNodo(java.lang.String)
+comment8.params=nombreCliente\ producto1
+comment8.target=boolean\ agregarProductoACliente(java.lang.String,\ producto)
+comment9.params=
+comment9.target=void\ mostrarClientesYProductos()
+numComments=11

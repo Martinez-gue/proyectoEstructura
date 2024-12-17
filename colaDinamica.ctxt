@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=colaDinamica
+comment1.params=
+comment1.target=colaDinamica()
+comment2.params=
+comment2.target=boolean\ estavacia()
+comment3.params=cliente
+comment3.target=boolean\ agregar(Cliente)
+comment4.params=
+comment4.target=java.lang.Object\ eliminar()
+comment5.params=
+comment5.target=java.lang.Object\ verprimero()
+numComments=6

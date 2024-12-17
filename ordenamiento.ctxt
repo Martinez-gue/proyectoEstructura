@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=ordenamiento
+comment1.params=productos\ inicio\ fin
+comment1.target=void\ quicksortt(producto[],\ int,\ int)
+comment2.params=productos\ inicio\ fin
+comment2.target=int\ particionar(producto[],\ int,\ int)
+comment3.params=productos\ posI\ posD
+comment3.target=void\ intercambiar(producto[],\ int,\ int)
+comment4.params=productos
+comment4.target=void\ burbuja(producto[])
+numComments=5
